@@ -17,8 +17,8 @@ console.log(n,typeof n);
 n=5*"H";
 console.log(n,typeof n);
 
-let a1=Number("5");
+let a1=Number("5");//Explict conversion
 let a2=Number("3");
 let r=a1+a2;
 console.log(r);
-console.log(5*"3");
+console.log(5*"3");//Implicit conversion
