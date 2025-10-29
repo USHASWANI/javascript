@@ -1,4 +1,5 @@
-function main(){
+function main()
+{
     let i=1;
     while(i<5)
     {
@@ -7,7 +8,10 @@ function main(){
     }
 }main();
 
-function main(){
+console.log("================")
+
+function main()
+{
     let i=1;
     while(i<=5)
     {
@@ -17,10 +21,16 @@ function main(){
     }
 }main();
 
+console.log("================")
+
+//count digits in a number
 let n=31224;
 let count=0;
-while(n>0){
+while(n>0)
+{
     n=Math.trunc(n/10);
     count++;
 }
 console.log(count);
+
+
