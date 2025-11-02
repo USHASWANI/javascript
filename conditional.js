@@ -1,4 +1,4 @@
-let n=21;
+let n=23;
 let r=n%2;
 let c=(r==0);
 if(c){

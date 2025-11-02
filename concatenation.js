@@ -1,11 +1,10 @@
 let n1=15;
-n2=20;
+n2=25;
 let res=n1+n2;
 console.log(res);
 console.log("addition of two numbers is "+res);
 console.log(n1+"+"+n2+"="+res);
 console.log(`${n1}+${n2}=${res}`);
-
 
 let n;
 n+5+"3";

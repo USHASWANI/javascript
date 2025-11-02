@@ -7,7 +7,7 @@ console.log(!(a>5));
 
 console.log("---------------")
 
-let a1=10;
+let a1=9;
 let a2=12;
 console.log(a1++>10);
 console.log(a2++>10);

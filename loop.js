@@ -24,7 +24,7 @@ function main()
 console.log("================")
 
 //count digits in a number
-let n=31224;
+let n=31234;
 let count=0;
 while(n>0)
 {

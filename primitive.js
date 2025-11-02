@@ -1,4 +1,4 @@
-let n=10;
+let n=15;
 console.log(n,typeof n);
 
 let str="usha";
